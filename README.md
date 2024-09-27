@@ -5,7 +5,7 @@ Dette prosjektet viser en liste over ting jeg liker å gjøre på fritiden, inkl
 ## Innhold
 
 - [Fritidsaktiviteter](#fritidsaktiviteter)
-- [Favorittspill](#favorittspill)
+- [spill](#favorittspill)
 
 ## Fritidsaktiviteter
 
@@ -16,7 +16,7 @@ Her er en liste over ting jeg ofte gjør:
 - Se på YouTube
 - Se på serier/filmer
 
-## Favorittspill
+## spill
 
 Her er en liste over noen spill jeg liker:
 
