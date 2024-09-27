@@ -21,19 +21,15 @@ Her er en liste over ting jeg ofte gjør:
 Her er en liste over noen spill jeg liker:
 
 1. [Tom Clancy's Rainbow Six® Siege](https://store.steampowered.com/app/359550/Tom_Clancys_Rainbow_Six_Siege/)
-   <iframe width="400" height="250" src="https://www.youtube.com/embed/YlVf0XCybmg?si=SLvr9bvjpAYqLnCR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 2. [Risk of Rain 2](https://store.steampowered.com/app/632360/Risk_of_Rain_2/)
-   <iframe width="400" height="250" src="https://www.youtube.com/embed/Qwgq_9EOCTg?si=K9VUhbLvusqmccaX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+  
 3. [Terraria](https://store.steampowered.com/app/105600/Terraria/)
-   <iframe width="400" height="250" src="https://www.youtube.com/embed/H77Zfzy4LWw?si=VjjceO3dzuJuR1E4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+ 
 4. [Hollow Knight](https://store.steampowered.com/app/367520/Hollow_Knight/)
-   <iframe width="400" height="250" src="https://www.youtube.com/embed/UAO2urG23S4?si=HpULFc_MoWHryx_e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  
 
 5. [Bloons TD 6](https://store.steampowered.com/app/960090/Bloons_TD_6/)
-   <iframe width="400" height="250" src="https://www.youtube.com/embed/cRDbFoDsQ6M?si=tOt7IrfPfgHquZb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Hvordan bruke prosjektet
 
