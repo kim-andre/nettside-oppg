@@ -36,10 +36,6 @@ Her er en liste over noen spill jeg liker:
 1. Klon prosjektet til din lokale maskin.
 2. Åpne `index.html` filen i en nettleser for å se innholdet.
 
-## Lisens
-
-Dette prosjektet er ikke lisensiert under noen spesifik lisens. Du kan bruke koden fritt for personlige formål.
-
 ## Forfatter
 
 Dette prosjektet er laget av Kim-Andre. Kontakt meg på kimwes28@innlandetfylke.no for spørsmål eller tilbakemeldinger.
