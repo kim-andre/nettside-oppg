@@ -4,7 +4,7 @@ Prosjektet viser aktiviteter og spill jeg liker.
 ## Innhold
 
 - [Fritidsaktiviteter](#fritidsaktiviteter)
-- [spill](#favorittspill)
+- [spill](#spill)
 
 ## Fritidsaktiviteter
 
